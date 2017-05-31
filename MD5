@@ -1,0 +1,11 @@
+868239d3e01595e30780ff85994049c1 *DESCRIPTION
+5527fa9cba790ad6ef85d4b33f14f891 *NAMESPACE
+0684efbd411ae97c22ee1bc9b30a9c98 *R/ImaginR.R
+4fabe93951e433b3bcb48372040ea29a *inst/extdata/image.jpg
+755a82ade9e76117b660e889bf7ca1e5 *inst/extdata/remove.txt
+586980656e6fb1587fc218dd956cec09 *man/ColorPhenotype.Rd
+922b1b6f80a9b395c6764bbfec57c61e *man/OneRow.Rd
+beb92377360f265823eeca21d3d12c4b *man/OutPutResult.Rd
+db4915f45c536801ee7b21e27ae06835 *man/PictureResults.Rd
+ac9d9062cf6c88abee018424796785eb *man/hex2rgb.Rd
+e7c0b5da95c628c48a955aa50a8bb6c9 *man/print.myclass.Rd
